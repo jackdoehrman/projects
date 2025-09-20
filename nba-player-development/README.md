@@ -20,16 +20,3 @@ Advanced analytics pipeline for NBA player development tracking, breakout candid
 
 ## Setup & Usage
 ```bash
-# Install dependencies
-pip install nba-api pandas plotly dash matplotlib seaborn
-
-# Run ETL pipeline
-py src/data_extraction.py
-py src/data_processing.py
-
-# Launch interactive dashboard
-py src/dashboard.py
-# View at: http://127.0.0.1:8050/
-
-# Run analysis
-py src/analysis.py
