@@ -1,0 +1,12 @@
+# Data files (too large for GitHub)
+data/
+*.csv
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
