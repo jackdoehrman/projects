@@ -1,0 +1,25 @@
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Database
+psycopg2-binary==2.9.7
+sqlalchemy==2.0.20
+
+# Web Frameworks
+fastapi==0.103.1
+uvicorn==0.23.2
+streamlit==1.26.0
+
+# HTTP and APIs
+requests==2.31.0
+httpx==0.24.1
+
+# Visualization
+plotly==5.16.1
+seaborn==0.12.2
+
+# Utilities
+python-dotenv==1.0.0
+schedule==1.2.0
+python-dateutil==2.8.2
